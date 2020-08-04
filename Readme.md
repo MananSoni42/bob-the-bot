@@ -6,8 +6,8 @@ It is hosted on a heroku server and connected to a [Facebook Page](https://www.f
 ## About:
 It is a chatbot built on messenger designed for College students, and teachers to help them get access to important information instantly.
 It will give the college community instant access to necessary information regarding the campus, academics and its activities.
-This will save them precious timewasted while waiting for a response from others via existing groups on Whatsapp/Messenger.
-Unfortunately, due to policy changes from Facebook's end, it became more difficult to run BOB while complying with the given policies. As a result, BOB has been shut down until further notice :(
+This will save them precious timewasted while waiting for a response from others via existing groups on Whatsapp/Messenger.  
+> Unfortunately, due to policy changes from Facebook's end, it became more difficult to run BOB while complying with the given policies. As a result, BOB has been shut down until further notice :(
 
 ## Link to BOB:
 https://m.me/ChatBotBOB
